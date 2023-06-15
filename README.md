@@ -1,1 +1,5 @@
-# PyCaret-Machine-Learning
+# PyCaret Machine Learning
+
+- Regression
+- Classification
+- Clustering
